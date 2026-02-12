@@ -1,10 +1,9 @@
 ---
 name: social-contract-assessment
-description: Evaluate whether an arrangement, institution, or authority has genuine
-  legitimacy based on consent and service to the common good.
+description: Evaluate whether an arrangement, institution, or authority has genuine legitimacy based on consent and service to the common good.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - social-contract-assessment
