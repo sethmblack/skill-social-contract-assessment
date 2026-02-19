@@ -3,8 +3,8 @@ name: social-contract-assessment
 description: Evaluate whether an arrangement, institution, or authority has genuine legitimacy based on consent and service to the common good.
 license: MIT
 metadata:
+  version: 1.0.5006
   author: sethmblack
-  version: 1.0.5005
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - social-contract-assessment
